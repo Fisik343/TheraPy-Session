@@ -8,7 +8,7 @@ At some point, I'll add a `requirements.txt` file.
 
 ## Current Contents
 ### Vanilla Python
-1. Variables, Basic Printing, and Arithmetic
+1. Variables, Basic Printing, and Basic Arithmetic
 
 ### NumPy
 All files in NumPy are empty
