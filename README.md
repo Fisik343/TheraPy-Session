@@ -14,7 +14,7 @@ At some point, I'll add a `requirements.txt` file.
 1. Creating and Manipulating NumPy Arrays and Matrices
 
 ### OpenCV
-All files in OpenCV are empty
+There are no OpenCV notebooks, but they are planned for the future
 
 ## Project Name Inspiration
 When I made this project, I had the scene from Avatar: The Last Airbender where Sokka was trying to give Aang a therapy session stuck in my head. Hence, "TheraPy Session" is the name I gave the project.
