@@ -11,7 +11,7 @@ At some point, I'll add a `requirements.txt` file.
 1. Variables, Basic Printing, and Basic Arithmetic
 
 ### NumPy
-All files in NumPy are empty
+1. Creating and Manipulating NumPy Arrays and Matrices
 
 ### OpenCV
 All files in OpenCV are empty
